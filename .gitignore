@@ -12,3 +12,8 @@ venv/
 # Temporary files created by Streamlit / file processing
 tmp/
 *.tmp
+
+# Ignore local documents and sample coursework
+*.docx
+~$*.docx
+my_coursework_docs/
