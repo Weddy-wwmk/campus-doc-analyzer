@@ -1,0 +1,14 @@
+# Python environment & cache
+__pycache__/
+*.pyc
+.env
+venv/
+
+# AWS & Security credentials (NEVER push these!)
+.aws/
+*.pem
+*.csv
+
+# Temporary files created by Streamlit / file processing
+tmp/
+*.tmp
